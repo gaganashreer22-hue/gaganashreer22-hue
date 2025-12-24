@@ -18,8 +18,6 @@ These activities help me stay disciplined, energetic, and focused.
 I am a final-year BCA student at **KLE Society Degree College, Bangalore**.  
 I enjoy learning programming and exploring how technology can solve real-world problems.
 
-My goal is to pursue **MCA** and build a strong career in the **technical/software field**.
-
 ---
 
 ## 🛠 Skills
