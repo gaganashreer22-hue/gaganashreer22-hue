@@ -1,11 +1,20 @@
-# 👋 Hi, I’m Gaganashree R
+# Hi there 👋 I'm Gaganashree R
 
-🎓 **BCA Final Year Student** | 🎯 Aspiring MCA Graduate  
-📍 Bangalore, India
+🎓 **BCA Final Year Student**  
+📍 Bangalore, India  
+🎯 Aspiring MCA Graduate | Technical Role
 
 ---
 
 ## 👩‍💻 About Me
+I am a final-year BCA student at **KLE Society Degree College, Bangalore**.  
+I enjoy learning programming and exploring how technology can solve real-world problems.
+
+My goal is to pursue **MCA** and build a strong career in the **technical/software field**.
+
+Apart from academics, I am a **dancer** and I actively enjoy **sports**, especially  
+🏐 **Volleyball** and 🏀 **Basketball**.  
+These activities help me stay disciplined, energetic, and focused.
 I am a final-year BCA student at **KLE Society Degree College, Bangalore**.  
 I enjoy learning programming and exploring how technology can solve real-world problems.
 
@@ -21,7 +30,7 @@ My goal is to pursue **MCA** and build a strong career in the **technical/softwa
 ---
 
 ## 🚗 Project
-### Accident Control & Drowsiness Detection (ACC)
+### Adaptive cruise control & Drowsiness Detection (ACC)
 A project focused on improving road safety by detecting driver drowsiness  
 and suggesting smart safety features for vehicles.
 
@@ -34,10 +43,10 @@ Final Year
 
 ---
 
-## 📫 Contact
-📧 **Email:** gaganashreer.22@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/gagana-shree-399b87391  
-🐙 **GitHub:** gaganashreer22-hue
+## 📬 Contact
+- 📧 Email: gaganashreer.22@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/gagana-shree-399b87391  
+- 💻 GitHub: gaganashreer22-hue
 
 <!--
 **gaganashreer22-hue/gaganashreer22-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
